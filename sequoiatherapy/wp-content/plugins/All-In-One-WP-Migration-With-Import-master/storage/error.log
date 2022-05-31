@@ -1,0 +1,3 @@
+Apr 21 2021 16:46:26
+{"type":8192,"message":"Array and string offset access syntax with curly braces is deprecated","file":"\/home2\/webtestsdev\/public_html\/live-life-church\/wp-content\/plugins\/aceide\/src\/Modules\/FileOps.php","line":749}
+
